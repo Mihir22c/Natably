@@ -2783,6 +2783,7 @@ export default class home extends Component {
                       <MaterialCommunityIcons name={Platform.OS == 'ios' ? "share" : 'share-variant'} size={25} color="#4EC5C1" />
                     </TouchableHighlight>
                   }
+
                 </View>
               </>
             }
